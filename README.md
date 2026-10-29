@@ -48,6 +48,18 @@ Developed a multi-page Power BI report that supports interactive exploration of 
 
 The Power BI `.pbix` file is available in this repository.
 
+
+## Dashboard Screenshots
+
+### Academic Performance Overview
+![Academic Performance Overview](01_overview.png)
+
+### Class Performance
+![Class Performance](02_class_performance.png)
+
+### Class Details
+![Class Details](03_class_details.png)
+
 ## Author
 
 **Alla Samoilenko**  
